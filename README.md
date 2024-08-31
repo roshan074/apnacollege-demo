@@ -1,5 +1,6 @@
 # apnacollege-demo
-This is my first git repository
+
+This is my first git repository.
 <br>
-author - Roshan sahu
+author - Roshan(apnacollege)
 
